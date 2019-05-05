@@ -1,3 +1,8 @@
 [build]
   command = "/bin/bash ./netlify-command.sh"
   publish = "assets"
+
+[[headers]]
+  for = "/*"
+  [headers.values]
+    Access-Control-Allow-Origin = "*"
