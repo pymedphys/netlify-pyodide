@@ -1,0 +1,3 @@
+[build]
+  command = "./netlify-command.sh"
+  publish = "assets"

@@ -1,0 +1,7 @@
+pyodide*.tar.bz2
+assets/*.data
+assets/*.js
+assets/*.html
+assets/*.wasm
+assets/*.css
+assets/*.json
